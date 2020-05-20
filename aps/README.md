@@ -9,14 +9,14 @@
 Projeto "Sistema de Gerenciamento de Aluno
 " foi criado para facilitar o gerenciamento de notas e disciplinas cursadas pelos alunos e a melhor visualização, deixando com um melhor intendimento. 
   
-##FUNCIONALIDADES
+## FUNCIONALIDADES
 1. CADASTRAR DISCIPLINA
 2. CADASTRAR ESTUDANTE
 3. LANÇAR NOTA
 4. ALTERAR NOTA
 5. MOSTRAR RELATÓRIO DOS ESTUDANTES
 
-##RECURSOS UTILIZADOS
+## RECURSOS UTILIZADOS
 1. PHP
 2. JavaScript
 3. CSS
