@@ -1,11 +1,11 @@
-#Sistema de Gerenciamento de Aluno
+# Sistema de Gerenciamento de Aluno
 
-##NOME DOS INTEGRANTES (NÃO PRECISA DO RA)
-Isabella Martins 
-Marcio Ronchetti
-Renan Rescigno
+## NOME DOS INTEGRANTES (NÃO PRECISA DO RA)
+- Isabella Martins 
+- Marcio Ronchetti
+- Renan Rescigno
 
-##DESCRIÇÃO DO PROJETO
+## DESCRIÇÃO DO PROJETO
 Projeto "Sistema de Gerenciamento de Aluno
 " foi criado para facilitar o gerenciamento de notas e disciplinas cursadas pelos alunos e a melhor visualização, deixando com um melhor intendimento. 
   
