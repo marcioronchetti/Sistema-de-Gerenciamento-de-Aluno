@@ -7,7 +7,7 @@
 
 ## DESCRIÇÃO DO PROJETO
 Projeto "Sistema de Gerenciamento de Aluno
-" foi criado para facilitar o gerenciamento de notas e disciplinas cursadas pelos alunos e a melhor visualização, deixando com um melhor intendimento. 
+" foi criado para facilitar o gerenciamento de notas e disciplinas cursadas pelos alunos e a melhor visualização, deixando com um melhor entendimento. 
   
 ## FUNCIONALIDADES
 1. CADASTRAR DISCIPLINA
