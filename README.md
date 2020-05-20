@@ -1,9 +1,9 @@
 # Sistema-de-Gerenciamento-de-Aluno
 
 ## NOME DOS INTEGRANTES (NÃO PRECISA DO RA)
-Isabella Martins 
-Marcio Ronchetti
-Renan Rescigno
+- Isabella Martins 
+- Marcio Ronchetti
+- Renan Rescigno
 
 ## DESCRIÇÃO DO PROJETO
 Projeto "Sistema de Gerenciamento de Aluno
