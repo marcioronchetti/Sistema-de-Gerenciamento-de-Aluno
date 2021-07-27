@@ -1,6 +1,6 @@
 # Sistema-de-Gerenciamento-de-Aluno
 
-## NOME DOS INTEGRANTES (NÃO PRECISA DO RA)
+## NOME DOS INTEGRANTES
 - Isabella Martins 
 - Marcio Ronchetti
 - Renan Rescigno
